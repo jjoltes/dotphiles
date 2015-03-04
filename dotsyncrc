@@ -68,18 +68,18 @@ dotsyncrc
 #vim/gvimrc
 #wget/wgetrc
 #zsh/fasdrc
-#zsh/dotzsh:.zsh
-#zsh/zlogin
-#zsh/zlogout
-#zsh/zprofile
-#zsh/zshenv
-#zsh/zshrc
+zsh/dotzsh:.zsh
+zsh/zlogin
+zsh/zlogout
+zsh/zprofile
+zsh/zshenv
+zsh/zshrc
 [endfiles]
 
 # Hosts to sync
 ## hostname                     type=masterhost, ANY or NONE    files=dotfile:tolink,another:tolink
 [hosts]
-#host1.example.com               git=ANY                        files=custom/dotfile    #git repo, pull from anywhere and link a custom dotfile
+se005271               git=ANY                        files=custom/dotfile    #git repo, pull from anywhere and link a custom dotfile
 #host2.example.com               git=ANY                                                #git repo, pull from anywhere
 #host3.example.com               git=ANY                                                #git repo, pull from anywhere
 #host4.example.com               git=host5.example.com                                  #git repo, pull from host5
