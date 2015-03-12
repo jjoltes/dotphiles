@@ -1,4 +1,4 @@
-#Thu Mar 05 15:34:11 MST 2015
+#Thu Mar 12 14:34:37 MDT 2015
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.enabled=true
 /instance/com.adobe.flexide.as.core/asASDocColor=\#7D8C93
 /instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.color=205,246,104
@@ -17,7 +17,7 @@
 /instance/net.sourceforge.texlipse/com.TexStyle=2
 /instance/org.eclipse.ui.workbench/DECORATIONS_COLOR=99,72,10
 /instance/org.cfeclipse.cfml/defaultTextColor=131,148,150
-/instance/org.eclipse.cdt.core.prj-HostSw/indexer/preferenceScope=1
+/instance/org.eclipse.cdt.core.prj-HostSw/indexer/preferenceScope=0
 /instance/org.scala-ide.sdt.core/syntaxColouring.character.colour=42,161,152
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHeadlineBackgroundColor=71,71,71
 /instance/org.eclipse.ui.editors/spacesForTabs=true
@@ -33,12 +33,13 @@
 /instance/ccw.core/ccw.preferences.editor_color.literalSymbol=38,139,210
 /instance/org.eclipse.jdt.ui/spelling_user_dictionary=${workspace_loc}/spellcheck_dictionary.txt
 /instance/com.spket.js/js_ssi=224,226,228
-@org.eclipse.cdt.dsf.gdb=4.5.0.201409172108
+@org.eclipse.cdt.dsf.gdb=4.6.0.201502131403
 /instance/org.jboss.ide.eclipse.freemarker/color.comment=88,110,117
 /instance/org.eclipse.dltk.ruby.ui/variable.instance=103,140,177
 /instance/org.eclipse.e4.CSS/org.eclipse.e4.CSS.syntaxColorer.tokenStyles.punctuation.color=220,50,47
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.brace_position_for_type_declaration=next_line
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.showSourceRootsAtTopLevelOfProject=true
+/instance/org.eclipse.egit.ui/resourcehistory_show_email_addresses=true
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CircularReferenceProblem=Error
 /instance/org.eclipse.wst.xml.ui/doctypeExtrenalSysref=\#678CB1 | null | null | null | null | null
 /instance/ccw.core/ccw.preferences.editor_color.MACRO.enabled=true
@@ -52,15 +53,15 @@
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_after_question_in_conditional=insert
 /instance/org.dadacoalition.yedit/colorKeyPreference=103,140,177
 /instance/de.walware.statet.r.ui/text_Rd_rdUnlistedTag.color=103,140,177
-/instance/org.eclipse.ui.ide/org.eclipse.ui.internal.views.markers.CachedMarkerBuilderorg.eclipse.ui.views.TaskList=<?xml version\="1.0" encoding\="UTF-8"?>\n<filterGroups andFilters\="false" markerLimit\="100" markerLimitEnabled\="true">\n<filterGroup IMemento.internal.id\="TODOs" enabled\="true" filterLimit\="-1" scope\="2">\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.completionField" completion\="3"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.priorityField" selectedPriorities\="7"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.descriptionField" containsModifier\="CONTAINS" containsText\="TODO"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.markerType" selectedTypes\="org.eclipse.core.resources.taskmarker\:org.eclipse.cdt.core.task\:"/>\n</filterGroup>\n<filterGroup IMemento.internal.id\="USER1424795637835" enabled\="true" filterLimit\="0" name\="FIXME" scope\="2" workingSet\="Aggregate for window 1421090697454">\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.completionField" completion\="3"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.priorityField" selectedPriorities\="7"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.descriptionField" containsModifier\="CONTAINS" containsText\="FIXME"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.markerType" selectedTypes\="org.eclipse.core.resources.taskmarker\:org.eclipse.cdt.core.task\:"/>\n</filterGroup>\n<filterGroup IMemento.internal.id\="USER1424796378363" enabled\="true" filterLimit\="0" name\="REFACTOR" scope\="2" workingSet\="Aggregate for window 1421090697454">\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.completionField" completion\="3"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.priorityField" selectedPriorities\="7"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.descriptionField" containsModifier\="CONTAINS" containsText\="REFACTOR"/>\n</filterGroup>\n<filterGroup IMemento.internal.id\="USER1424799426758" enabled\="true" filterLimit\="0" name\="TBD" scope\="2" workingSet\="Aggregate for window 1421090697454">\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.completionField" completion\="3"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.priorityField" selectedPriorities\="7"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.descriptionField" containsModifier\="CONTAINS" containsText\=""/>\n</filterGroup>\n<filterGroup IMemento.internal.id\="USER1424799426758" enabled\="true" filterLimit\="0" name\="TBR" scope\="2" workingSet\="Aggregate for window 1421090697454">\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.completionField" completion\="3"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.priorityField" selectedPriorities\="7"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.descriptionField" containsModifier\="CONTAINS" containsText\=""/>\n</filterGroup>\n</filterGroups>
+/instance/org.eclipse.ui.ide/org.eclipse.ui.internal.views.markers.CachedMarkerBuilderorg.eclipse.ui.views.TaskList=<?xml version\="1.0" encoding\="UTF-8"?>\n<filterGroups andFilters\="false" markerLimit\="100" markerLimitEnabled\="true">\n<filterGroup IMemento.internal.id\="TODOs" enabled\="true" filterLimit\="-1" scope\="2" workingSet\="Aggregate for window 1421090697454">\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.completionField" completion\="3"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.priorityField" selectedPriorities\="7"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.descriptionField" containsModifier\="CONTAINS" containsText\="TODO"/>\n</filterGroup>\n<filterGroup IMemento.internal.id\="USER1424795637835" enabled\="true" filterLimit\="0" name\="FIXME" scope\="2" workingSet\="Aggregate for window 1421090697454">\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.completionField" completion\="3"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.priorityField" selectedPriorities\="7"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.descriptionField" containsModifier\="CONTAINS" containsText\="FIXME"/>\n</filterGroup>\n<filterGroup IMemento.internal.id\="USER1424796378363" enabled\="true" filterLimit\="0" name\="REFACTOR" scope\="2" workingSet\="Aggregate for window 1421090697454">\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.completionField" completion\="3"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.priorityField" selectedPriorities\="7"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.descriptionField" containsModifier\="CONTAINS" containsText\="REFACTOR"/>\n</filterGroup>\n<filterGroup IMemento.internal.id\="USER1424799426758" enabled\="true" filterLimit\="0" name\="TBR" scope\="2" workingSet\="Aggregate for window 1421090697454">\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.completionField" completion\="3"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.priorityField" selectedPriorities\="7"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.descriptionField" containsModifier\="CONTAINS" containsText\="TBR"/>\n</filterGroup>\n<filterGroup IMemento.internal.id\="USER1426014340946" enabled\="false" filterLimit\="0" name\="NOTE" scope\="0" workingSet\="Aggregate for window 1421090697454">\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.completionField" completion\="3"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.priorityField" selectedPriorities\="7"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.descriptionField" containsModifier\="CONTAINS" containsText\="NOTE"/>\n</filterGroup>\n</filterGroups>
 /instance/org.eclipse.cdt.ui/Refactoring.savealleditors=true
 /instance/org.eclipse.ui.editors/lineNumberColor=98,98,98
 /instance/org.eclipse.cdt.ui/content_assist_proposals_foreground=137,158,160
-@org.eclipse.linuxtools.rpm.ui.editor=2.0.0.201409171651
+@org.eclipse.linuxtools.rpm.ui.editor=2.0.0.201502180018
 /instance/ccw.core/ccw.preferences.editor_color.int=42,161,152
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_closing_paren_in_switch=do not insert
 /instance/org.sweetlemonade.eclipse.json/colorKeyStyle=0
-@org.eclipse.cdt.ui=5.8.1.201409172108
+@org.eclipse.cdt.ui=5.9.0.201502131403
 /instance/org.eclipse.jdt.ui/java_keyword_return=221,40,103
 /instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
 /instance/org.nodeclipse.enide.editors.gradle/color_doc=125,140,147
@@ -84,7 +85,7 @@
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.VariableResolutionProblem=Error
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.method.enabled=true
 /instance/org.eclipse.angularjs.ui/angularExpressionBorder=\#DC322F | null | null | null | null | null
-@org.eclipse.linuxtools.changelog.core=2.8.0.201409171651
+@org.eclipse.linuxtools.changelog.core=2.8.0.201502180018
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.enum.color=224,226,228
 /instance/org.epic.perleditor/taskIndicationColor=211,54,130
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.localVariableDeclaration.color=38,139,210
@@ -105,8 +106,8 @@
 /instance/org.eclipse.ui.editors/thcoverage_color=16,53,16
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.alignment_for_expressions_in_array_initializer=18
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_after_comma_in_method_declaration_parameters=insert
-/instance/org.eclipse.ui.views.log/orderType=2
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_closing_paren_in_parenthesized_expression=do not insert
+/instance/org.eclipse.ui.views.log/orderType=2
 /instance/PathTools/fileExploreCommand=/usr/bin/nautilus "{parent-path}"
 /instance/org.eclipse.cdt.ui/nameStyle.getter.prefixForBoolean=is
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.typeParameter.enabled=true
@@ -129,6 +130,7 @@
 /instance/com.adobe.flexide.mxml.core/mxmlTextColor=\#839496
 /instance/org.eclipse.jdt.ui/java_doc_tag=30,120,155
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLApplicationTag_enabled=true
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.IgnoredResourceBackgroundColor=38,38,38
 /instance/ccw.core/ccw.preferences.editor_color.SPECIAL_FORM.enabled=true
 /instance/com.dubture.twig.ui/editorColorBoundarymaker=\#839496 | null | null | null | null | null
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.use_tabs_only_for_leading_indentations=false
@@ -147,7 +149,9 @@
 /instance/com.puppetlabs.geppetto.pp.dsl.PP/com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.literalkw.color=181,137,0
 /instance/winterwell.markdown/Pref_Comment=88,110,117
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.BasicSemanticHighlightGenerator.AS3.StaticGetter_color=224,226,228
+@org.eclipse.egit.ui=3.4.2.201412180340-r
 /instance/org.eclipse.ui.editors/overriddenByCSS=,AbstractTextEditor.Color.SelectionForeground.SystemDefault,AbstractTextEditor.Color.SelectionBackground.SystemDefault,AbstractTextEditor.Color.Background.SystemDefault,AbstractTextEditor.Color.Foreground.SystemDefault,AbstractTextEditor.Color.Background,AbstractTextEditor.Color.FindScope,AbstractTextEditor.Color.Foreground,AbstractTextEditor.Color.SelectionBackground,AbstractTextEditor.Color.SelectionForeground,asOccurencesIndicationColor,breakpointIndicationColor,currentIPColor,currentLineColor,deletionIndicationColor,errorIndicationHighlighting,filteredSearchResultIndicationColor,hyperlinkColor,hyperlinkColor.SystemDefault,infoIndicationColor,lineNumberColor,linked.slave.color,matchingTagIndicationColor,occurrenceIndicationColor,overrideIndicatorColor,printMarginColor,searchResultHighlighting,searchResultIndication,searchResultIndicationColor,searchResultTextStyle,secondaryIPColor,spellingIndicationColor,warningIndicationHighlighting,writeOccurrenceIndicationColor,
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.DiffRemoveForegroundColor=170,170,170
 /instance/org.sweetlemonade.eclipse.json/colorArrayBracketStyle=0
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.MemoryHistoryUnknownColor=170,175,185
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.VariableResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true}}
@@ -161,7 +165,6 @@
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.BasicSemanticHighlightGenerator.AS3.Class_enabled=true
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.StaticFieldHighlighting.enabled=true
 /instance/org.eclipse.ui.editors/currentIPColor=54,54,54
-@org.eclipse.core.net=1.2.200.v20140124-2013
 /instance/org.python.pydev/CODE_STYLE=0
 /instance/org.scala-ide.sdt.core/syntaxColouring.semantic.method.colour=38,139,210
 /instance/com.adobe.flexide.as.core/asMetadataColor=\#CB4B16
@@ -178,14 +181,15 @@
 /instance/org.eclipse.cdt.ui/c_string_italic=true
 /instance/org.sweetlemonade.eclipse.json/colorBoolean=181,137,0
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.NonVirtualDestructorProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true}}
+/instance/org.eclipse.ui.editors/Accessibility.UseSaturatedColors=true
 /instance/org.eclipse.cdt.ui.prj-HostSw/buildConsole/logLocation=/autoldap/projects/orion-vpu-exploration-missions_d1334/software/test_sw/jjoltes/workspace/.metadata/.plugins/org.eclipse.cdt.ui/HostSw.build.log
 @org.eclipse.core.runtime=3.10.0.v20140318-2214
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.LabelStatementNotFoundProblem=Error
 /instance/org.eclipse.ui.workbench/ERROR_COLOR=157,0,0
 /instance/jp.sourceforge.pdt_tools.indentGuide/line_shift=0
 /instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.enabled=true
-@org.eclipse.jdt.ui=3.10.1.v20140817-1500
-@org.eclipse.cdt.dsf.ui=2.4.100.201409172108
+@org.eclipse.jdt.ui=3.10.2.v20141014-1419
+@org.eclipse.cdt.dsf.ui=2.5.0.201502131403
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.enabled=true
 /instance/org.dadacoalition.yedit/colorAnchorPreferences=131,148,150
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_after_comma_in_base_types=insert
@@ -199,6 +203,7 @@
 /instance/com.palantir.typescript/syntaxColoring.stringLiteral.color=42,161,152
 /instance/org.eclipse.wst.jsdt.ui/java_doc_tag=220,50,47
 /instance/org.eclipse.wst.xml.ui/tagBorder=\#268BD2 | null | null | null | null | null
+/instance/jp.sourceforge.pdt_tools.indentGuide/line_alpha=200
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLEventName_color=42,161,152
 /instance/org.nodeclipse.enide.editors.jade/color_comment=88,110,117
 /instance/org.python.pydev/CLASS_NAME_STYLE=0
@@ -252,7 +257,7 @@
 /instance/org.eclipse.jdt.ui/spelling_ignore_urls=true
 /instance/de.walware.statet.r.ui/text_Rd_rdDefault.color=131,148,150
 /instance/de.walware.statet.r.ui/text_R_rNumbers.color=42,161,152
-@org.eclipse.mylyn.monitor.ui=3.13.0.v20140702-2155
+@org.eclipse.mylyn.monitor.ui=3.14.2.v20150217-2244
 /instance/org.eclipse.cdt.ui/semanticHighlighting.class.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.7
 /instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.ModuleView=<?xml version\="1.0" encoding\="UTF-8"?>\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684"/>
@@ -272,11 +277,12 @@
 /instance/org.python.pydev/PARENS_STYLE=0
 /instance/org.eclipse.ui.editors/AnyEditTools.tabs.color=68,26,68
 /instance/org.eclipse.pde.ui/editor.color.header_key=181,137,0
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.sychronizing_default_participant=org.eclipse.egit.ui.modelCompareParticipant
 /instance/org.eclipse.cdt.ui/includeStyle.systemWithoutExtension=<?xml version\="1.0" encoding\="UTF-8"?>\n<style angle_brackets\="true" blank_line_before\="true" keep_together\="true" order\="4" relative_path\="false"/>
 /instance/ccw.core/ccw.preferences.editor_color.meta=203,75,22
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.ConstantHighlighting.color=\#E0E2E4
 /instance/ccw.core/ccw.preferences.editor_color.FUNCTION=103,140,177
-/instance/org.eclipse.ui.ide/platformState=1425576225048
+/instance/org.eclipse.ui.ide/platformState=1425576225573
 /instance/com.powerflasher.fdt.ui/JAVADOC_LINK_color_underline=true
 /instance/org.eclipse.jdt.ui/useQuickDiffPrefPage=true
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.staticField.color=103,140,177
@@ -290,7 +296,7 @@
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.color=191,164,164
 /instance/org.eclipse.cdt.ui/org.eclipse.cdt.ui.cview.groupincludes=true
 /instance/org.erlide.ui/editor/colors/atom/color=131,148,150
-@org.eclipse.epp.mpc.ui=1.3.1.v20140908-1651
+@org.eclipse.epp.mpc.ui=1.3.2.v20150204-1930
 /instance/ccw.core/ccw.preferences.editor_color.FUNCTION.bold=false
 /instance/org.scala-ide.sdt.core/syntaxColouring.default.colour=131,148,150
 /instance/org.eclipse.help.base/help_view_open_mode=in_place
@@ -404,10 +410,9 @@
 /instance/org.eclipse.e4.CSS/org.eclipse.e4.CSS.syntaxColorer.tokenStyles.comment.color=88,110,117
 /instance/org.eclipse.dltk.tcl.ui/DLTK_string=42,161,152
 /instance/org.eclipse.wst.html.ui/declBoder=\#678CB1 | null | null | null | null | null
-/instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /instance/org.eclipse.php.ui/editorColorKeyword=\#B58900 | null | null | null | null | null
 /instance/org.eclipse.jdt.ui/overriddenByCSS=,content_assist_completion_replacement_background,content_assist_completion_replacement_foreground,content_assist_parameters_background,content_assist_parameters_foreground,java_bracket,java_comment_task_tag,java_default,java_doc_default,java_doc_keyword,java_doc_link,java_doc_tag,java_keyword,java_keyword_return,java_multi_line_comment,java_operator,java_single_line_comment,java_string,matchingBracketsColor,pf_coloring_argument,pf_coloring_assignment,pf_coloring_comment,pf_coloring_key,pf_coloring_value,semanticHighlighting.abstractClass.bold,semanticHighlighting.abstractClass.color,semanticHighlighting.abstractClass.enabled,semanticHighlighting.abstractMethodInvocation.color,semanticHighlighting.abstractMethodInvocation.enabled,semanticHighlighting.annotation.bold,semanticHighlighting.annotation.color,semanticHighlighting.annotation.enabled,semanticHighlighting.annotation.italic,semanticHighlighting.annotationElementReference.color,semanticHighlighting.annotationElementReference.enabled,semanticHighlighting.class.color,semanticHighlighting.class.enabled,semanticHighlighting.class.bold,semanticHighlighting.deprecatedMember.color,semanticHighlighting.deprecatedMember.enabled,semanticHighlighting.deprecatedMember.underline,semanticHighlighting.deprecatedMember.strikethrough,semanticHighlighting.enum.color,semanticHighlighting.enum.enabled,semanticHighlighting.enum.italic,semanticHighlighting.field.color,semanticHighlighting.field.enabled,semanticHighlighting.inheritedMethodInvocation.color,semanticHighlighting.inheritedMethodInvocation.enabled,semanticHighlighting.interface.color,semanticHighlighting.interface.enabled,semanticHighlighting.localVariable.color,semanticHighlighting.localVariable.enabled,semanticHighlighting.localVariableDeclaration.color,semanticHighlighting.localVariableDeclaration.enabled,semanticHighlighting.method.color,semanticHighlighting.method.enabled,semanticHighlighting.methodDeclarationName.color,semanticHighlighting.methodDeclarationName.enabled,semanticHighlighting.number.color,semanticHighlighting.number.enabled,semanticHighlighting.parameterVariable.color,semanticHighlighting.parameterVariable.enabled,semanticHighlighting.staticField.color,semanticHighlighting.staticField.enabled,semanticHighlighting.staticFinalField.color,semanticHighlighting.staticFinalField.enabled,semanticHighlighting.staticMethodInvocation.color,semanticHighlighting.staticMethodInvocation.enabled,semanticHighlighting.typeArgument.color,semanticHighlighting.typeArgument.enabled,semanticHighlighting.typeParameter.color,semanticHighlighting.typeParameter.enabled,sourceHoverBackgroundColor,
-@org.eclipse.jdt.core=3.10.0.v20140902-0626
+@org.eclipse.jdt.core=3.10.2.v20150120-1634
 /instance/org.python.pydev/CLASS_NAME_COLOR=103,140,177
 /instance/org.scala-ide.sdt.core/syntaxColoring.xml.comment.color=88,110,117
 /instance/org.eclipse.cdt.ui/pp_header_bold=true
@@ -430,7 +435,7 @@
 /instance/org.eclipse.cdt.core.prj-HostSw/indexer/indexUnusedHeadersWithDefaultLang=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
 /instance/ccw.core/ccw.preferences.editor_color.comment.enabled=true
-@de.loskutov.anyedit.AnyEditTools=2.4.12.201501181651
+@de.loskutov.anyedit.AnyEditTools=2.4.13.201503032100
 /instance/org.eclipse.cdt.ui/org.eclipse.cdt.internal.ui.text.doctools.recognizedTag=30,120,155
 /instance/org.eclipse.dltk.ruby.ui/DLTK_number=42,161,152
 /instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.color=30,181,64
@@ -447,7 +452,7 @@
 /instance/org.scala-ide.sdt.core/syntaxColoring.multiLineString.color=42,161,152
 /instance/org.python.pydev/BACKQUOTES_STYLE=0
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.ColoredLabels.inherited=119,119,184
-@org.eclipse.jdt.launching=3.7.101.v20140825-1922
+@org.eclipse.jdt.launching=3.7.102.v20141111-0953
 /instance/ccw.core/ccw.preferences.editor_color.callableMACRO.bold=false
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_closing_angle_bracket_in_template_arguments=do not insert
 /instance/org.eclipse.wst.xsl.ui/xsltagAttributeValue=\#2AA198 | null | null | null | null | null
@@ -468,7 +473,7 @@
 /instance/org.eclipse.ui.ide/TASKS_FILTERS_MIGRATE=true
 /instance/org.python.pydev/PARENS_COLOR=181,137,0
 /instance/org.eclipse.wst.css.ui/MEDIA=\#B58900 | null | null | null | null | null
-/instance/org.eclipse.cdt.core/org.eclipse.cdt.core.taskPriorities=normal,high,low,low,low
+/instance/org.eclipse.cdt.core/org.eclipse.cdt.core.taskPriorities=normal,high,low,low,low,low
 /instance/org.scala-ide.sdt.core/syntaxColoring.bracket.color=220,50,47
 /instance/org.eclipse.mylyn.monitor.ui/org.eclipse.mylyn.monitor.activity.tracking.enabled.checked=true
 /instance/org.nodeclipse.enide.editors.jade/color_keyword=181,137,0
@@ -478,6 +483,7 @@
 /instance/org.eclipse.cdt.core/indexer/indexOnOpen=false
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.BreakpointView+org.eclipse.debug.ui.breakpointsView.toolbar.linkWithDebugView=true
 /instance/net.sourceforge.texlipse/verb.TexColor=103,140,177
+@org.eclipse.egit.core=3.4.2.201412180340-r
 /instance/goclipse/syntax_highlighting_string_color=42,161,152
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.DeprecatedHighlighting.enabled=true
 /instance/org.eclipse.jdt.ui/content_assist_proposals_background=255,255,255
@@ -507,12 +513,14 @@
 /instance/org.jboss.ide.eclipse.freemarker/color.xmlComment=88,110,117
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.alignment_for_throws_clause_in_method_declaration=18
 /instance/org.eclipse.cdt.ui/org.eclipse.cdt.ui.text.templates.custom=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.DiffHeadlineBackgroundColor=35,35,35
 /instance/org.eclipse.help.base/window_infopop=false
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.CommitGraphNormalFont=1|Menlo for Powerline|10.0|0|GTK|1|;
 /instance/org.sweetlemonade.eclipse.json/colorKey=103,140,177
 /instance/org.eclipse.cdt.ui/org.eclipse.cdt.ui.cview.groupmacros=true
 /instance/org.eclipse.php.ui/editorColorString=\#2AA198 | null | null | null | null | null
 @org.eclipse.e4.ui.css.swt.theme=0.9.300.v20141126-1957
-@org.eclipse.mylyn.context.core=3.13.0.v20140702-2225
+@org.eclipse.mylyn.context.core=3.14.2.v20150218-0125
 /instance/com.adobe.flexide.css.core/cssStringColor=\#2AA198
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_semicolon=do not insert
 /instance/org.eclipse.cdt.ui/nameStyle.variable.prefix=
@@ -539,7 +547,7 @@
 /instance/org.eclipse.cdt.ui/semanticHighlighting.enum.enabled=true
 /instance/com.adobe.flexide.as.core/asReservedColor=\#B58900
 /instance/ccw.core/ccw.preferences.editor_color.JAVA_STATIC_METHOD.italic=false
-@org.eclipse.cdt.make.core=7.3.0.201409172108
+@org.eclipse.cdt.make.core=7.3.0.201502131403
 /instance/org.eclipse.wst.html.ui/tagAttributeName=\#678CB1 | null | null | null | null | null
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.RegEx_enabled=true
 /instance/net.sourceforge.texlipse/str.BibColor=42,161,152
@@ -560,6 +568,7 @@
 /instance/org.dadacoalition.yedit/colorAliasPreferences=131,148,150
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.staticFinalField.enabled=true
 /instance/org.eclipse.cdt.ui/nameStyle.field.prefix=
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.CommitMessageFont=1|Menlo for Powerline|9.0|0|GTK|1|;
 /instance/org.eclipse.xtend.core.Xtend/org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.comment.color=88,110,117
 /instance/org.scala-ide.play2/route.default.colour=131,148,150
 /instance/org.eclipse.ui.workbench/org.eclipse.search.ui.match.highlight=94,94,94
@@ -610,6 +619,7 @@
 /instance/com.dubture.twig.ui/editorColorPhpdoc=\#7D8C93 | null | null | null | null | null
 /instance/org.epic.perleditor/AbstractTextEditor.Color.Background=0,43,54
 /instance/org.eclipse.ui.workbench/ACTIVE_HYPERLINK_COLOR=144,144,255
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.IgnoredResourceFont=1|Menlo|10.0|2|GTK|1|;
 /instance/org.eclipse.pde.ui/editor.color.externalized_string=42,161,152
 /instance/org.eclipse.cdt.ui/semanticHighlighting.label.bold=true
 /instance/com.puppetlabs.geppetto.module.dsl.Module/com.puppetlabs.geppetto.module.dsl.Module.syntaxColorer.tokenStyles.deprecatedKey.color=224,226,228
@@ -653,6 +663,7 @@
 /instance/com.puppetlabs.geppetto.module.dsl.Module/com.puppetlabs.geppetto.module.dsl.Module.syntaxColorer.tokenStyles.number.color=42,161,152
 /instance/org.eclipse.ui.editors/secondaryIPColor=54,54,54
 /instance/org.eclipse.ui.ide/SAVE_ALL_BEFORE_BUILD=true
+/instance/org.eclipse.ui.editors/deletionIndicationInOverviewRuler=true
 /instance/com.adobe.flexide.css.core/cssImportColor=\#B58900
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_after_comma_in_enum_declarations=insert
 /instance/net.vtst.ow.eclipse.less.Less/net.vtst.ow.eclipse.less.Less.syntaxColorer.tokenStyles.VARIABLE_DEFINITION.color=38,139,210
@@ -683,6 +694,7 @@
 /instance/org.cloudsmith.geppetto.pp.dsl.PP/org.cloudsmith.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.documentation.color=125,140,147
 /instance/org.eclipse.dltk.tcl.ui/DLTK_number=42,161,152
 /instance/org.eclipse.cdt.ui/semanticHighlighting.functionDeclaration.color=13,209,64
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.UncommittedChangeBackgroundColor=28,28,28
 /instance/org.eclipse.ui.ide/IMPORT_FILES_AND_FOLDERS_TYPE=22,4\:6,2\:23,1
 /instance/org.eclipse.ui.ide/tipsAndTricks=true
 /instance/org.eclipse.cdt.managedbuilder.core/properties/CommandDispatcher.cdt.managedbuild.target.gnu.exe.590976292/cdt.managedbuild.config.gnu.exe.debug.842025836=cdt.managedbuild.toolchain.gnu.exe.debug.406482088\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.2062731098\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1335736125\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1815943949\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.47241699\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.720841811\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.1080546927\=rebuildState\\\=true\\n\n
@@ -715,13 +727,15 @@
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_comma_in_template_parameters=do not insert
 /instance/org.eclipse.cdt.ui/spelling_user_dictionary_encoding=
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_after_opening_paren_in_while=do not insert
-@org.eclipse.cdt.core=5.8.0.201409172108
+@org.eclipse.cdt.core=5.9.1.201502131403
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRC=
 /instance/org.eclipse.cdt.ui/semanticHighlighting.externalSDK.enabled=true
 /instance/org.eclipse.ui.workbench/org.eclipse.recommenders.snipmatch.rcp.searchboxbackground=56,56,56
 /instance/com.spket.js/js_sl_comment=88,110,117
 /instance/org.eclipse.cdt.core/build.proj.ref.configs.enabled=false
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CaseBreakProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},no_break_comment\=>"no break",last_case_param\=>false,empty_case_param\=>false}
 /instance/org.python.pydev/KEYWORD_STYLE=0
+/instance/org.eclipse.egit.ui//BranchProjectTracker__/autoldap/projects/orion-vpu-exploration-missions_d1334/software/test_sw/jjoltes/git_workspace/.git_dev=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects branch\="dev">\n<project>/VpuSw/Utility/commandDispatcher/bld/CommandDispatcher</project>\n<project>/VpuSw/VpuHostSw/BuildFiles/Eclipse/HostSw</project>\n</projects>
 /instance/org.scala-ide.sdt.core/syntaxColoring.xml.attributeName.color=181,137,0
 /instance/org.eclipse.dltk.ruby.ui/variable.pseudo=38,139,210
 /instance/org.epic.perleditor/keyword2Color=103,140,177
@@ -737,6 +751,7 @@
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.BasicSemanticHighlightGenerator.AS3.StaticFunction_enabled=true
 /instance/com.spket.js/java_doc_default=125,140,147
 /instance/eclihx.ui/hx_editor_string_color=42,161,152
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.IgnoredResourceForegroundColor=136,136,136
 /instance/ccw.core/ccw.preferences.editor_color.SPECIAL_FORM.bold=false
 /instance/org.scala-ide.sdt.core/syntaxColouring.semantic.localVal.colour=224,226,228
 /instance/org.scala-ide.play2/syntaxColouring.numberLiteral.colour=42,161,152
@@ -796,11 +811,13 @@
 /instance/com.powerflasher.fdt.ui/AS_PRIVATE_color=181,137,0
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLSetter_color=103,140,177
 /instance/org.eclipse.ui.editors/hyperlinkColor=102,175,249
+@org.eclipse.compare=3.5.501.v20140817-1445
 /instance/ccw.core/ccw.preferences.editor_color.other-literals.italic=false
 /instance/org.eclipse.php.ui/editorColorNumber=\#2AA198 | null | null | null | null | null
 /instance/jp.gr.java_conf.ussiy.app.propedit/backgroundColor=0,43,54
 /instance/org.eclipse.cdt.ui/c_single_line_comment=98,98,98
 /instance/org.python.pydev/STRING_STYLE=0
+/instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories=/autoldap/projects/orion-vpu-exploration-missions_d1334/software/test_sw/jjoltes/git_workspace/.git\:
 /instance/org.eclipse.ui.ide/EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
 /instance/org.eclipse.dltk.ruby.ui/variable=38,139,210
 /instance/org.eclipse.cdt.ui/nameStyle.constant.wordDelimiter=_
@@ -824,6 +841,7 @@
 /instance/org.eclipse.cdt.ui/semanticHighlighting.localVariable.color=255,191,38
 /instance/com.spket.xml/xml_comments=88,110,117
 /instance/org.scala-ide.sdt.core/syntaxColoring.xml.attributeValue.color=42,161,152
+/instance/org.eclipse.ui.editors/additionIndicationInOverviewRuler=true
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_comma_in_method_invocation_arguments=do not insert
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_binary_operator=insert
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.tabulation.size=4
@@ -925,6 +943,7 @@
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLEventName_enabled=true
 /instance/org.eclipse.debug.ui/overriddenByCSS=,org.eclipse.debug.ui.MemoryHistoryKnownColor,org.eclipse.debug.ui.MemoryHistoryUnknownColor,org.eclipse.debug.ui.PREF_CHANGED_VALUE_BACKGROUND,org.eclipse.debug.ui.changedDebugElement,org.eclipse.debug.ui.consoleBackground,org.eclipse.debug.ui.errorColor,org.eclipse.debug.ui.inColor,org.eclipse.debug.ui.outColor,
 /instance/ccw.core/ccw.preferences.editor_color.RAW_SYMBOL=131,148,150
+/instance/org.eclipse.ui.editors/show_range_indicator=false
 /instance/org.eclipse.e4.CSS/org.eclipse.e4.CSS.syntaxColorer.tokenStyles.keyword.color=181,137,0
 /instance/org.scala-ide.sdt.core/syntaxColoring.xml.tagName.color=131,148,150
 /instance/ccw.core/ccw.preferences.editor_color.callableFUNCTION.bold=false
@@ -981,7 +1000,7 @@
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.TopLevelNamespace_enabled=true
 /instance/org.epic.perleditor/literal2Color=42,161,152
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.deprecatedMember.color=224,226,228
-/instance/org.eclipse.cdt.managedbuilder.core/properties/ExampleProjectTestSw.cdt.managedbuild.target.gnu.exe.784557182/cdt.managedbuild.config.gnu.exe.debug.62772921=cdt.managedbuild.config.gnu.exe.debug.62772921.490644975\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1763367684\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1376220452\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1651786873\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1372918143\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.56250308\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.2054891461\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.317243073\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.650079640\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.92340205\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1569344235\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1964658601\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.477114655\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1446144349\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1707436138\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.884810228\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.790874517\=rebuildState\\\=false\\n\norg.eclipse.cdt.managedbuilder.ui.rcbs.2005848223\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.127876875\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.77434005\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.602054732.554086533\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.972123190\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.631777204\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1849130097\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1401730392\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.542067195\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.720959900\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1770549246\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.710604874\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1603777512\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.971449421\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.87456706\=rebuildState\\\=true\\n\ncdt.managedbuild.config.gnu.exe.debug.62772921.571994755\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1994325228\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.228193481\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.2120695549\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1589457713\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.2044871695\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1580986162\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1162296798\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.250640616\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1513870245.42941850\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1447395110\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1256647027\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.10110965\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1554170581\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1599734384\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1849180864\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.980212314\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1692719830\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1577759539\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1842143208\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1212195344\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.373848911\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.702461589\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.839393880\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1432389453\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1043703198\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1702338363\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1220827808\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1883078300\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.893451226\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.62772921.223837391\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1352052472\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.602054732.905404211\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.2133587550\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1283925532\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.520219851\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.631663520\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1470410207\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1179553581\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1518174007\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1513870245.487661037\=rebuildState\\\=true\\n\ncdt.managedbuild.config.gnu.exe.debug.62772921\=rcState\\\=0\\nrebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.283399125\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1535973160\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.647315471\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.602054732\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1513870245\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.47080301\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1017893486\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1384696399\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.2116023841\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1380765314\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.1110864307\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1733221922\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.1310083443\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.818734850\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.355658195\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.2077357053\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1834718049\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1297343497\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.2044394003\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.802657079\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.836936171\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.162685514\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1830203644\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1160337979\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1758356126\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.62772921.554498645\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1488915994\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.2013990368\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1894280572\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1577816149\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.1509743839\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1508297937\=rebuildState\\\=true\\n\norg.eclipse.cdt.managedbuilder.ui.rcbs.239660037\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1754133312\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.700061266\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.637324360\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.171262854\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.527947891\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.792984017\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.738870816\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.475841023\=rebuildState\\\=true\\n\ncdt.managedbuild.config.gnu.exe.debug.62772921.208112155\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.368415914\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.51309920\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1717768208\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1817433939\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1336162972\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.267514447\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.967725666\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.973241465\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1942752996\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.279889991\=rebuildState\\\=false\\n\norg.eclipse.cdt.managedbuilder.ui.rcbs.154744036\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1728815746\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1089567730\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.909325529\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.26967455\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.510529502\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.850112779\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1332988776\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1830673983\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.111961266\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1778402343\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.2016329092\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.2050410521\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.215500808\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.734907079\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1356593210\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.734161054\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.50772341\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.398625518\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.462004750\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1228707952\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.302455454\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.857171827\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1665359159\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.2120601149\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.207710500\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.32143147\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/ExampleProjectTestSw.cdt.managedbuild.target.gnu.exe.784557182/cdt.managedbuild.config.gnu.exe.debug.62772921=cdt.managedbuild.config.gnu.exe.debug.62772921.490644975\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1763367684\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1376220452\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1651786873\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1723802440\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1372918143\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.56250308\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.2054891461\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.317243073\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.650079640\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.92340205\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1569344235\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1964658601\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.477114655\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1446144349\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1707436138\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.884810228\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.790874517\=rebuildState\\\=false\\n\norg.eclipse.cdt.managedbuilder.ui.rcbs.2005848223\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.127876875\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.77434005\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.602054732.554086533\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.972123190\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.631777204\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1849130097\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1401730392\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.542067195\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.720959900\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1770549246\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.710604874\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1603777512\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.971449421\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.87456706\=rebuildState\\\=true\\n\ncdt.managedbuild.config.gnu.exe.debug.62772921.571994755\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1994325228\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.228193481\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.2120695549\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1100757814\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1589457713\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.2044871695\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1580986162\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1162296798\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.250640616\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1513870245.42941850\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1447395110\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1256647027\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.10110965\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1554170581\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1599734384\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1849180864\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.980212314\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1692719830\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1577759539\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1842143208\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1212195344\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.373848911\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.702461589\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.839393880\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1432389453\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1043703198\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1702338363\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1220827808\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1883078300\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.893451226\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.62772921.223837391\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1352052472\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.602054732.905404211\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.2133587550\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1283925532\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.520219851\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.631663520\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1470410207\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1179553581\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1518174007\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1513870245.487661037\=rebuildState\\\=true\\n\ncdt.managedbuild.config.gnu.exe.debug.62772921\=rcState\\\=0\\nrebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.283399125\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1535973160\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.647315471\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.602054732\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1513870245\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.47080301\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1017893486\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1384696399\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.2116023841\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1380765314\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.1110864307\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1733221922\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.1310083443\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.818734850\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.355658195\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.2077357053\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1834718049\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1263414089\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1297343497\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.2044394003\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.802657079\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1294272226\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.836936171\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.162685514\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1830203644\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.367432257\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1160337979\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1758356126\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.62772921.554498645\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1488915994\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.2013990368\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1894280572\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1577816149\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.1509743839\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1508297937\=rebuildState\\\=true\\n\norg.eclipse.cdt.managedbuilder.ui.rcbs.239660037\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1754133312\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.700061266\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.637324360\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.171262854\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.527947891\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.792984017\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.738870816\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.475841023\=rebuildState\\\=true\\n\ncdt.managedbuild.config.gnu.exe.debug.62772921.208112155\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.368415914\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.51309920\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1717768208\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1817433939\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1336162972\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.267514447\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.967725666\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.973241465\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1942752996\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.279889991\=rebuildState\\\=false\\n\norg.eclipse.cdt.managedbuilder.ui.rcbs.154744036\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1728815746\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1089567730\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.909325529\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.26967455\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1236673912\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.510529502\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.850112779\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1332988776\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1830673983\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.111961266\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1778402343\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.2016329092\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.2050410521\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.215500808\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.734907079\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1356593210\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.734161054\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.50772341\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.398625518\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.462004750\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.2094686925\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1228707952\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.302455454\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.857171827\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1665359159\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.2120601149\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.207710500\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.32143147\=rebuildState\\\=false\\n\n
 /instance/de.walware.statet.r.ui/text_R_rOtherOperators.color=181,137,0
 /instance/com.puppetlabs.geppetto.module.dsl.Module/com.puppetlabs.geppetto.module.dsl.Module.syntaxColorer.tokenStyles.task.color=211,54,130
 /instance/org.eclipse.cdt.core/indexer/skipFilesLargerThanMB=8
@@ -989,7 +1008,7 @@
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_closing_paren_in_for=do not insert
 /instance/org.eclipse.cdt.ui/c_comment_task_tag_underline=true
 /instance/org.eclipse.jdt.ui/content_assist_parameters_background=52,57,61
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.internal.ui.navigator.layout=1
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.internal.ui.navigator.layout=2
 /instance/org.eclipse.cdt.ui/includeStyle.sameFolder=<?xml version\="1.0" encoding\="UTF-8"?>\n<style angle_brackets\="false" blank_line_before\="true" keep_together\="true" order\="1" relative_path\="false"/>
 /instance/org.cfeclipse.cfml/cfscriptfunctionColor=103,140,177
 /instance/org.python.pydev/OPERATORS_COLOR=181,137,0
@@ -997,7 +1016,7 @@
 /instance/org.scala-ide.play2/syntaxColouring.multiLineComment.colour=88,110,117
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.RedefinitionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true}}
 /instance/eclihx.ui/hx_editor_haxe_doc_color=125,140,147
-@org.eclipse.cdt.debug.ui=7.5.0.201409172108
+@org.eclipse.cdt.debug.ui=7.5.0.201502131403
 /instance/org.eclipse.cdt.ui/nameStyle.method.wordDelimiter=
 /instance/org.dadacoalition.yedit/colorFlowCharacterPreferences=131,148,150
 /instance/org.scala-ide.play2/syntaxColouring.bracket.colour=220,50,47
@@ -1073,7 +1092,7 @@
 /instance/org.nodeclipse.enide.editors.gradle/color_number=42,161,152
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.XMLCDATATag_enabled=true
 /instance/org.eclipse.cdt.ui/c_multi_line_comment=98,98,98
-@org.eclipse.mylyn.tasks.ui=3.13.0.v20140826-1734
+@org.eclipse.mylyn.tasks.ui=3.14.2.v20150217-2341
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_comma_in_base_types=do not insert
 /instance/org.eclipse.cdt.dsf.ui/stackFrameLimit=30
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.localVariable.color=38,139,210
@@ -1114,6 +1133,7 @@
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_after_comma_in_template_arguments=insert
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.BasicSemanticHighlightGenerator.AS3.Field_enabled=true
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_opening_paren_in_while=do not insert
+/instance/org.eclipse.compare/org.eclipse.compare.NavigationEndActionLocal=next
 /instance/org.eclipse.cdt.debug.ui/columnSortDirectionKeySF=128
 /instance/org.eclipse.xtend.core.Xtend/org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.keyword.color=181,137,0
 /instance/org.tigris.subversion.subclipse.tools.usage/allow_usage_report_preference=true
@@ -1153,6 +1173,7 @@
 /instance/org.eclipse.wst.xml.ui/entityReference=\#B58900 | null | null | null | null | null
 /instance/org.sweetlemonade.eclipse.json/colorMatchBracketStyle=0
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.errreturnvalue.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true}}
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.CommitGraphHighlightFont=1|Menlo for Powerline|10.0|2|GTK|1|;
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLNamespace_color=103,140,177
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_opening_paren_in_catch=do not insert
 /instance/ccw.core/ccw.preferences.editor_color.MACRO.bold=false
@@ -1161,6 +1182,7 @@
 /instance/org.eclipse.wst.html.ui/doctypeExternalPubref=\#678CB1 | null | null | null | null | null
 /instance/org.eclipse.cdt.ui/overriddenByCSS=,asm_directive,c_braces,c_multi_line_comment,c_numbers,c_operators,c_single_line_comment,c_string,org.eclipse.cdt.internal.ui.text.doctools.multi,org.eclipse.cdt.internal.ui.text.doctools.recognizedTag,org.eclipse.cdt.internal.ui.text.doctools.single,pp_default,pp_header,semanticHighlighting.class.color,semanticHighlighting.class.enabled,semanticHighlighting.class.bold,semanticHighlighting.enum.enabled,semanticHighlighting.enum.italic,semanticHighlighting.enumerator.color,semanticHighlighting.enumerator.enabled,semanticHighlighting.externalSDK.color,semanticHighlighting.externalSDK.enabled,semanticHighlighting.field.color,semanticHighlighting.field.enabled,semanticHighlighting.function.color,semanticHighlighting.function.enabled,semanticHighlighting.functionDeclaration.color,semanticHighlighting.functionDeclaration.enabled,semanticHighlighting.functionDeclaration.bold,semanticHighlighting.localVariable.color,semanticHighlighting.localVariable.enabled,semanticHighlighting.localVariableDeclaration.color,semanticHighlighting.localVariableDeclaration.enabled,semanticHighlighting.macroDefinition.color,semanticHighlighting.macroDefinition.enabled,semanticHighlighting.macroDefinition.bold,semanticHighlighting.method.color,semanticHighlighting.method.enabled,semanticHighlighting.methodDeclaration.color,semanticHighlighting.methodDeclaration.enabled,semanticHighlighting.methodDeclaration.bold,semanticHighlighting.namespace.color,semanticHighlighting.namespace.enabled,semanticHighlighting.parameterVariable.color,semanticHighlighting.parameterVariable.enabled,semanticHighlighting.staticField.color,semanticHighlighting.staticField.enabled,semanticHighlighting.staticMethod.color,semanticHighlighting.staticMethod.enabled,semanticHighlighting.typedef.color,semanticHighlighting.typedef.enabled,semanticHighlighting.typedef.bold,semanticHighlighting.typeParameter.color,semanticHighlighting.typeParameter.enabled,
 /instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.RegisterView=<?xml version\="1.0" encoding\="UTF-8"?>\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="356" org.eclipse.debug.ui.SASH_VIEW_PART\="641">\n<COLUMN_SIZES IMemento.internal.id\="org.eclipse.cdt.dsf.ui.COLUMN_ID__VALUE" SIZE\="268"/>\n<COLUMN_SIZES IMemento.internal.id\="org.eclipse.cdt.dsf.ui.COLUMN_ID__NAME" SIZE\="268"/>\n<COLUMN_SIZES IMemento.internal.id\="org.eclipse.cdt.dsf.ui.COLUMN_ID__DESCRIPTION" SIZE\="270"/>\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.RegisterView"/>\n</VariablesViewMemento>
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.DiffHeadlineForegroundColor=170,170,170
 /instance/com.adobe.flexide.mxml.core/mxmlProcessingInstructionColor=\#678CB1
 /instance/org.scala-ide.sdt.core/syntaxColoring.semantic.package.color=224,226,228
 /instance/org.eclipse.ui.editors/pydevOccurrenceIndicationColor=7,54,66
@@ -1177,8 +1199,11 @@
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_opening_paren_in_exception_specification=insert
 /instance/org.sourceforge.jsonedit.core/colorNull=131,148,150
 /instance/org.eclipse.debug.ui/Registers.detail.orientation=Variables.detail.orientation.hidden
+/instance/org.eclipse.compare/org.eclipse.compare.NavigationEndAction=next
 /instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.color=128,246,167
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.sychronizing_default_participant_sec_id=1426183568529
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_after_semicolon_in_for=insert
+/instance/org.eclipse.ui.editors/isBookmarkGoToNextNavigationTarget=true
 /instance/org.eclipse.wst.dtd.ui/dtdDefault=\#839496 | null | null | null | null | null
 /instance/org.eclipse.dltk.ruby.ui/const=224,226,228
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.NamespaceModifier_color=103,140,177
@@ -1268,19 +1293,21 @@
 /instance/org.eclipse.debug.ui/preferredDetailPanes=DefaultDetailPane\:DefaultDetailPane|NumberFormatPane\:NumberFormatPane|
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.lineSplit=160
 /instance/org.eclipse.cdt.ui/content_assist_disabled_computers=org.eclipse.cdt.ui.helpProposalCategory\u0000org.eclipse.cdt.ui.parserProposalCategory\u0000org.eclipse.cdt.ui.textProposalCategory\u0000org.eclipse.cdt.ui.templateProposalCategory\u0000
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_LIB=/autoldap/apps/x86_64/linux/jre1.7.0_71/lib/rt.jar
 /instance/com.adobe.flexide.mxml.core/mxmlTagColor=\#268BD2
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.AbstractClassCreation=Error
 /instance/org.eclipse.jst.jsp.ui/commentBorder=\#586E75 | null | null | true | null | null
 /instance/org.scala-ide.sdt.core/syntaxColouring.singleLineComment.colour=88,110,117
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.switch_perspective_on_suspend=always
 /instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.remoteApplicationLaunchType=org.eclipse.rse.remotecdt.dsf.debug,debug,;
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.localVariableDeclaration.enabled=true
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.StatementHasNoEffectProblem=Warning
 /instance/org.eclipse.jdt.ui/spelling_ignore_digits=false
 /instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
 /instance/eclihx.ui/hxml_editor_option_color=181,137,0
-/instance/org.eclipse.cdt.ui/semanticHighlighting.enumerator.color=141,218,248
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_new_line_at_end_of_file_if_missing=do not insert
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enumerator.color=141,218,248
 /instance/org.eclipse.ui.ide/quickStart=false
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.FindScope=30,120,155
 /instance/org.eclipse.cdt.ui/semanticHighlighting.enum.color=128,131,221
@@ -1329,11 +1356,13 @@
 /instance/org.eclipse.angularjs.ui/directiveName=\#B58900 | null | null | null | null | null
 /instance/org.scala-ide.sdt.core/syntaxColouring.semantic.lazyTemplateVal.colour=224,226,228
 /instance/org.cfeclipse.cfml/cfcommentBackgroundColor=0,43,54
-/instance/jp.sourceforge.pdt_tools.indentGuide/content_types=org.eclipse.core.runtime.text|org.eclipse.cdt.make.core.makefile|org.eclipse.ltk.core.refactoring.refactoringHistory|org.eclipse.cdt.core.cSource|org.eclipse.cdt.core.cxxSource|org.eclipse.cdt.core.cxxHeader|org.eclipse.cdt.core.cHeader|org.eclipse.ltk.core.refactoring.refactoringIndex|com.cthing.cmakeed.CMakeFileType|org.eclipse.linuxtools.rpm.createrepo.repoContent
+/instance/jp.sourceforge.pdt_tools.indentGuide/content_types=org.eclipse.core.runtime.text|org.eclipse.ltk.core.refactoring.refactoringHistory|org.eclipse.mylyn.wikitext|org.eclipse.mylyn.wikitext.mediawiki|org.eclipse.mylyn.wikitext.markdown|org.eclipse.mylyn.wikitext.tracwiki|org.eclipse.mylyn.wikitext.textile|org.eclipse.mylyn.wikitext.twiki|org.eclipse.mylyn.wikitext.confluence|org.eclipse.cdt.core.cSource|org.eclipse.cdt.core.cxxSource|org.eclipse.cdt.core.cxxHeader|org.eclipse.cdt.core.cHeader|org.eclipse.core.runtime.xml|org.eclipse.emf.ecore.xmi|org.eclipse.emf.ecore|org.eclipse.emf.emof|org.eclipse.ant.core.antBuildFile|org.eclipse.e4.content-type|org.eclipse.cdt.make.core.makefile|org.eclipse.ltk.core.refactoring.refactoringIndex|org.eclipse.egit.contenttype.gitignore|org.eclipse.ui.views.log.log|org.eclipse.cdt.autotools.ui.automake|org.eclipse.linuxtools.rpm.createrepo.repoContent
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.alignment_for_parameters_in_method_declaration=18
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding commandId\="org.eclipse.ui.edit.cut" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+X"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+X"/>\n</org.eclipse.ui.commands>
 /instance/org.eclipse.cdt.ui/org.eclipse.cdt.ui.formatterprofiles.version=1
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.UncommittedChangeForegroundColor=56,156,255
 @org.eclipse.help.base=4.0.201.v20150204-1700
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.CommitMessageEditorFont=1|Menlo for Powerline|10.0|0|GTK|1|;
 /instance/ccw.core/ccw.preferences.editor_color.callableRAW_SYMBOL.bold=false
 /instance/org.eclipse.dltk.ruby.ui/variable.class=103,140,177
 /instance/com.puppetlabs.geppetto.pp.dsl.PP/com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.resourceTitle.color=42,161,152
@@ -1378,12 +1407,13 @@
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.annotation.color=203,75,22
 /instance/org.eclipse.ui.editors/spellingIndicationColor=253,170,211
 /instance/org.eclipse.cdt.ui/content_assist_order_proposals=true
-/instance/org.eclipse.cdt.ui/c_comment_task_tag=74,0,121
+/instance/org.eclipse.cdt.ui/c_comment_task_tag=128,131,221
+/instance/jp.sourceforge.pdt_tools.indentGuide/line_color=86,86,86
 /instance/org.eclipse.team.cvs.ui/pref_console_error_color=103,140,177
 /instance/org.eclipse.jdt.ui/spelling_ignore_sentence=true
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.XMLCDATATag_color=131,148,150
 /instance/org.eclipse.jdt.ui/java_keyword=221,40,103
-@org.eclipse.cdt.codan.core=3.2.0.201409172108
+@org.eclipse.cdt.codan.core=3.2.0.201502131403
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=32,32,32
 /instance/jp.gr.java_conf.ussiy.app.propedit/commentColor=88,110,117
 /instance/org.sweetlemonade.eclipse.json/colorNumber=42,161,152
@@ -1400,6 +1430,7 @@
 /instance/org.eclipse.dltk.ruby.ui/DLTK_string.eval=42,161,152
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.InternalFunctionHighlighting.enabled=true
 /instance/org.eclipse.ui.editors/warningIndicationColor=118,109,69
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.DiffRemoveBackgroundColor=91,0,0
 /instance/org.eclipse.ui.workbench/ENABLED_DECORATORS=org.eclipse.cdt.ui.indexedFiles\:false,org.eclipse.cdt.managedbuilder.ui.excludedFile\:true,org.eclipse.cdt.managedbuilder.ui.includeFolder\:true,org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator\:true,org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator\:true,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:false,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.linuxtools.tmf.ui.trace_folder.decorator\:true,org.eclipse.linuxtools.tmf.ui.experiment_folder.decorator\:true,org.eclipse.linuxtools.tmf.ui.linked_trace.decorator\:true,org.eclipse.mylyn.context.ui.decorator.interest\:true,org.eclipse.mylyn.tasks.ui.decorators.task\:true,org.eclipse.mylyn.team.ui.changeset.decorator\:true,org.eclipse.rse.core.virtualobject.decorator\:true,org.eclipse.rse.core.binary.executable.decorator\:true,org.eclipse.rse.core.script.executable.decorator\:true,org.eclipse.rse.core.java.executable.decorator\:true,org.eclipse.rse.core.library.decorator\:true,org.eclipse.rse.core.link.decorator\:true,org.eclipse.rse.subsystems.error.decorator\:true,org.eclipse.team.cvs.ui.decorator\:true,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.SymlinkDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,eclox.core.decorator\:true,
 /instance/org.eclipse.cdt.ui/nameStyle.cpp.source.suffix=.cpp
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffRemoveForegroundColor=255,232,237
@@ -1452,7 +1483,7 @@
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_after_colon_in_labeled_statement=insert
 /instance/eclihx.ui/hx_editor_keywords_color=181,137,0
 /instance/org.eclipse.team.ui/org.eclipse.team.ui.first_time=false
-@org.eclipse.cdt.mylyn.ui=3.13.0.v20140702-2225
+@org.eclipse.cdt.mylyn.ui=3.14.2.v20150218-0125
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.ReturnStyleProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true}}
 /instance/com.palantir.typescript/syntaxColoring.punctuation.color=131,148,150
 /instance/org.epic.perleditor/variableColor=38,139,210
@@ -1469,7 +1500,7 @@
 /instance/org.eclipse.wst.xsl.ui/xsltagAttributeName=\#678CB1 | null | null | null | null | null
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.alignment_for_compact_if=16
 /instance/org.eclipse.php.ui/editorColorComment=\#586E75 | null | null | true | null | null
-/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.debug.ui.presentation\tTorg.eclipse.jdt.ui.presentation\tTorg.eclipse.recommenders.snipmatch.rcp.themeElementCategory\tTorg.eclipse.compare.contentmergeviewer.TextMergeViewer\tTorg.eclipse.ui.presentation.default\tTorg.eclipse.mylyn.wikitext.ui.presentation
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.egit.ui.GitTheme\tTorg.eclipse.jdt.ui.presentation\tTorg.eclipse.recommenders.snipmatch.rcp.themeElementCategory\tTorg.eclipse.compare.contentmergeviewer.TextMergeViewer\tTorg.eclipse.ui.presentation.default\tTorg.eclipse.mylyn.wikitext.ui.presentation
 /instance/com.spket.js/java_doc_link=38,139,210
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CatchByReference=Warning
 /instance/com.puppetlabs.geppetto.module.dsl.Module/com.puppetlabs.geppetto.module.dsl.Module.syntaxColorer.tokenStyles.keyword.color=181,137,0
@@ -1512,7 +1543,7 @@
 /instance/com.spket.js/js_string=42,161,152
 /instance/org.python.pydev/NUMBER_COLOR=42,161,152
 /instance/org.scala-ide.play2/route.action.colour=224,226,228
-@org.eclipse.tm.terminal=3.3.1.201502201535
+@org.eclipse.tm.terminal=3.3.1.201502251211
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.annotation.enabled=true
 /instance/org.cloudsmith.geppetto.pp.dsl.PP/org.cloudsmith.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.string.color=42,161,152
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.InvalidArguments=Error
@@ -1523,6 +1554,7 @@
 /instance/org.eclipse.wst.xml.ui/tagAttributeEquals=\#839496 | null | null | null | null | null
 /instance/jsonedit-core/stringColor=42,161,152
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_comma_in_declarator_list=do not insert
+/instance/org.eclipse.ui.editors/changeIndicationInOverviewRuler=true
 /instance/org.eclipse.wst.xsl.ui/xsltagBorder=\#268BD2 | null | null | null | null | null
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffAddBackgroundColor=11,121,90
 /instance/org.eclipse.ui.workbench/org.eclipse.cdt.debug.ui.ModulesDetailPaneFont=1|Menlo for Powerline|10.0|0|GTK|1|;
@@ -1552,9 +1584,11 @@
 /instance/org.eclipse.jdt.ui/semanticHighlighting.method.color=167,236,33
 /instance/org.eclipse.ui.editors/errorIndication=false
 @org.eclipse.search=3.9.100.v20140226-1637
+/instance/org.eclipse.ui/CURRENT_THEME_ID=org.eclipse.ui.ide.systemDefault
 /instance/org.eclipse.cdt.make.ui/org.eclipse.cdt.make.ui.editor.macro_ref=38,139,210
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.alignment_for_conditional_expression=18
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.interface.color=103,140,177
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.DiffHeadlineFont=1|Menlo for Powerline|10.0|1|GTK|1|;
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_before_prefix_operator=do not insert
 /instance/org.epic.perleditor/comment1ColorBold=false
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.brace_position_for_switch=next_line
@@ -1633,6 +1667,7 @@
 /instance/de.walware.statet.r.ui/text_R_rString.color=42,161,152
 /instance/jp.gr.java_conf.ussiy.app.propedit/separatorColor=131,148,150
 /instance/org.cfeclipse.cfml/SQLOperatorColor=181,137,0
+/instance/org.eclipse.egit.ui/decorator_show_dirty_icon=true
 /instance/org.scala-ide.play2/syntaxColouring.xml.attributeName.colour=181,137,0
 /instance/org.eclipse.cdt.ui/includeStyle.systemWithExtension=<?xml version\="1.0" encoding\="UTF-8"?>\n<style angle_brackets\="true" blank_line_before\="true" keep_together\="true" order\="3" relative_path\="false"/>
 @org.eclipse.ui.editors=3.8.200.v20140401-1310
@@ -1666,7 +1701,7 @@
 /instance/org.cfeclipse.cfml/cfnumberColor=42,161,152
 /instance/org.scala-ide.sdt.core/syntaxColoring.scaladocAnnotation.color=160,130,189
 /instance/org.eclipse.wst.jsdt.ui/java_single_line_comment=88,110,117
-@org.eclipse.cdt.make.ui=7.2.0.201409172108
+@org.eclipse.cdt.make.ui=7.2.0.201502131403
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLAirApplicationTag_color=38,139,210
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLState_enabled=true
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_after_opening_paren_in_method_invocation=do not insert
@@ -1674,7 +1709,7 @@
 /instance/com.adobe.flexide.mxml.core/mxmlStringColor=\#2AA198
 /instance/org.eclipse.ant.ui/org.eclipse.ant.ui.textColor=131,148,150
 /instance/org.eclipse.dltk.ruby.ui/DLTK_single_line_comment_bold=false
-@org.eclipse.cdt.debug.core=7.5.0.201409172108
+@org.eclipse.cdt.debug.core=7.6.0.201502131403
 /instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.color=171,31,54
 /instance/ccw.core/ccw.preferences.editor_color.meta.bold=false
 /instance/org.eclipse.cdt.ui/org.eclipse.cdt.ui.outline.groupmacros=true
@@ -1686,13 +1721,14 @@
 /instance/org.epic.perleditor/AbstractTextEditor.Color.Foreground.SystemDefault=false
 /instance/org.eclipse.wst.xml.ui/declBorder=\#678CB1 | null | null | null | null | null
 /instance/com.spket.js/java_doc_keyword=160,130,189
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.DiffAddForegroundColor=170,170,170
 /instance/org.scala-ide.sdt.core/syntaxColouring.xml.comment.colour=88,110,117
 /instance/com.powerflasher.fdt.ui/AS_CORE_color=103,140,177
 /instance/org.eclipse.debug.core/org.eclipse.debug.core.PREF_DELETE_CONFIGS_ON_PROJECT_DELETE=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.7
 /instance/org.eclipse.cdt.ui/nameStyle.cpp.source.prefix=
-/instance/org.eclipse.cdt.ui/semanticHighlighting.enum.italic=true
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_after_assignment_operator=insert
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enum.italic=true
 /instance/org.eclipse.wst.jsdt.ui/tagName=103,140,177
 /instance/org.eclipse.ui.editors/thcoverage_text=false
 /instance/org.sweetlemonade.eclipse.json/colorNullStyle=0
@@ -1727,6 +1763,7 @@ file_export_version=3.0
 /instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.enabled=true
 /configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=5
 /instance/goclipse/syntax_highlighting_comment_color=88,110,117
+/instance/org.eclipse.egit.ui/resourcehistory_show_notes=true
 /instance/eclihx.ui/hx_editor_conditional_compilation_color=181,137,0
 /instance/org.eclipse.cdt.debug.ui/visibleColumnsKeySF=1,1,0,0,0,0
 /instance/com.puppetlabs.geppetto.pp.dsl.PP/com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.documentation.color=125,140,147
@@ -1792,8 +1829,9 @@ file_export_version=3.0
 /instance/net.vtst.ow.eclipse.less.Less/net.vtst.ow.eclipse.less.Less.syntaxColorer.tokenStyles.SELECTOR_HASH.color=103,140,177
 /configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
 /instance/de.walware.statet.base.ui/editors/options/Proposals.background=0,43,54
+/instance/org.eclipse.egit.ui/Blame_IgnoreWhitespace=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.overloadedOperator.bold=true
-/instance/org.eclipse.cdt.core/org.eclipse.cdt.core.taskTags=TODO,FIXME,REWORK,TBD,TBR
+/instance/org.eclipse.cdt.core/org.eclipse.cdt.core.taskTags=TODO,FIXME,REWORK,TBD,TBR,NOTE
 /instance/org.eclipse.cdt.ui/nameStyle.cpp.source.capitalization=3
 /instance/org.eclipse.dltk.ruby.ui/content_assist_completion_replacement_foreground=131,148,150
 /instance/org.eclipse.cdt.ui/semanticHighlighting.field.enabled=true
@@ -1836,6 +1874,7 @@ file_export_version=3.0
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.outColor=235,235,235
 /instance/org.eclipse.dltk.tcl.ui/DLTK_argument=131,148,150
 /instance/org.eclipse.dltk.ruby.ui/DLTK_keyword_return=181,137,0
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.egit.ui.DiffHunkBackgroundColor=38,38,38
 /instance/ccw.core/ccw.preferences.editor_color.callableGLOBAL_VAR.italic=false
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.TypeResolutionProblem=Error
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.SuggestedParenthesisProblem=Warning
@@ -1865,14 +1904,14 @@ file_export_version=3.0
 /instance/org.eclipse.cdt.ui/semanticHighlighting.function.enabled=true
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.FieldHighlighting.enabled=true
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.keep_imple_if_on_one_line=false
-@org.eclipse.cdt.managedbuilder.core=8.3.0.201409172108
+@org.eclipse.cdt.managedbuilder.core=8.3.0.201502131403
 /instance/org.eclipse.cdt.core/indexer/skipIncludedFilesLargerThanMB=16
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
 /instance/org.eclipse.dltk.ruby.ui/DLTK_doc.topic=220,50,47
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.noreturn.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},implicit\=>false}
 /instance/org.eclipse.pde.ui/editor.color.instr=103,140,177
 /instance/org.eclipse.cdt.ui/pp_default=217,232,247
-/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=/autoldap/projects/orion-vpu-exploration-missions_d1334/software/test_sw/jjoltes/workspace\n/autoldap/projects/orion-vpu-exploration-missions_d1334/software/test_sw/jjoltes/eclipse_workspace
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=/autoldap/projects/orion-vpu-exploration-missions_d1334/software/test_sw/jjoltes/git_workspace\n/autoldap/projects/orion-vpu-exploration-missions_d1334/software/test_sw/jjoltes/workspace\n/autoldap/projects/orion-vpu-exploration-missions_d1334/software/test_sw/jjoltes/eclipse_workspace
 /instance/org.eclipse.angularjs.ui/directiveParameterName=\#268BD2 | null | null | null | null | null
 /instance/jsonedit-core/nullColor=131,148,150
 /instance/org.eclipse.cdt.ui/c_operators=230,230,250
@@ -1898,12 +1937,12 @@ file_export_version=3.0
 /instance/org.eclipse.cdt.debug.core/org.eclipse.cdt.debug.corecDebug.default_register_format=4
 /instance/org.eclipse.wst.jsdt.ui/java_bracket=220,50,47
 /instance/org.eclipse.pde.ui/editor.color.xml_comment=88,110,117
-/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1423163247708" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\n<vm id\="1421343233469" name\="java-1.7.0-openjdk-1.7.0.71.x86_64" path\="/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.71.x86_64"/>\n<vm id\="1423163247708" javadocURL\="http\://docs.oracle.com/javase/7/docs/api/" name\="jre1.7.0_71" path\="/autoldap/apps/x86_64/linux/jre1.7.0_71"/>\n</vmType>\n</vmSettings>\n
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1423163247708" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\n<vm id\="1426092111840" name\="java-1.7.0-openjdk-1.7.0.75.x86_64" path\="/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.75.x86_64"/>\n<vm id\="1423163247708" name\="jre1.7.0_71" path\="/autoldap/apps/x86_64/linux/jre1.7.0_71"/>\n</vmType>\n</vmSettings>\n
 /instance/org.scala-ide.play2/syntaxColouring.string.colour=42,161,152
 /instance/com.puppetlabs.geppetto.pp.dsl.PP/com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.keyword.color=181,137,0
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLStyleName_enabled=true
 /instance/org.python.pydev/SELF_COLOR=181,137,0
-/instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Menlo for Powerline|10.0|0|GTK|1|;
+/instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Monospace|10.0|0|GTK|1|;
 /instance/org.eclipse.ui.editors/filteredSearchResultIndicationColor=110,110,110
 /instance/net.sourceforge.texlipse/slc.BibColor=88,110,117
 /instance/org.chromium.debug.ui/color_keyword=181,137,0
@@ -1911,7 +1950,7 @@ file_export_version=3.0
 /instance/org.eclipse.wst.xml.ui/tagAttributeValue=\#2AA198 | null | null | null | null | null
 /instance/org.eclipse.dltk.ruby.ui/DLTK_comment_task_tag=211,54,130
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLNamespace_enabled=true
-/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Corg.eclipse.cdt.dsf.ui.staledata.background
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Corg.eclipse.egit.ui.UncommittedChangeBackgroundColor
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_after_colon_in_conditional=insert
 /instance/org.eclipse.dltk.tcl.ui/content_assist_parameters_foreground=131,148,150
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.formatter.insert_space_after_opening_paren_in_exception_specification=do not insert
