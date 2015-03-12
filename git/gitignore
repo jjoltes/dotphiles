@@ -7,6 +7,11 @@
 #   Ben O'Hara <bohara@gmail.com>
 #
 
+# Directories
+*/Debug/*
+*/Release/*
+*/RemoteSystemsTempFiles/*
+
 # Compiled source
 *.pyc
 *.pyo
@@ -23,6 +28,8 @@ dwsync.xml
 *.komodoproject
 .komodotools
 nbproject
+*.metadata
+
 
 # OS generated files
 ._*
