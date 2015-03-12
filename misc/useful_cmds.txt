@@ -1,0 +1,7 @@
+//chmod ownership reference
+#777: readable, writable, executable by ALL USERS (DANGEROUS).
+#755: executable, readable, writable by the owner, but only executable and readable by the members of the group or any other system users.
+#640: readable, writable by the owner, only readable by members of the group and denied for everyone else. 
+
+#Recursively chmod only PHP files (with extension .abc)
+find . -type f -name '*.abc' -exec chmod 755 {} \;
