@@ -1,5 +1,7 @@
 echo Zsh v$ZSH_VERSION
 
+DEFAULT_USER="jjoltes"
+
 #if [ \( "x$COLORTERM" = "xgnome-terminal" -o "x$COLORTERM" = "xTerminal" -o "x$COLORTERM" = "xxfce4-terminal" \) -a "x$TERM" = "xxterm" ] &&
 #        infocmp xterm-256color >/dev/null 2>&1; then
 #    TERM=xterm-256color
@@ -19,15 +21,14 @@ zstyle ':dotzsh:load' zfunction 'zargs' 'zmv'
 # Set the dotzsh modules to load (browse modules).
 # The order matters.
 zstyle ':dotzsh:load' dzmodule \
-  'gnu-utility' \
-  'environment' \
-  'terminal' \
-  'editor' \
-  'history' \
-  'utility' \
-  'completion' \
-  'theme'
-
+'gnu-utility' \
+'environment' \
+'terminal' \
+'editor' \
+'history' \
+'utility' \
+'completion' \
+'theme'
 ### Global settings
 # Color output (auto set to 'no' on dumb terminals).
 zstyle ':dotzsh:module:*' color 'yes'
@@ -94,13 +95,15 @@ zstyle ':dotzsh:module:ssh:agent' forwarding 'yes'
 
 ### Syntax Highlighting module
 #zstyle ':dotzsh:module:syntax-highlighting' highlighters 'main' 'brackets' 'pattern' \
-#  'cursor' 'root' \
+#  'cursor' 'root'
+
+
 
 ### Theme module
 # Set default theme to load.
 # Setting it to 'random' loads a random theme.
 # Auto set to 'off' on dumb terminals.
-zstyle ':dotzsh:module:theme' theme 'minimal'
+zstyle ':dotzsh:module:theme' theme 'jeff' 'soldark' 'violet'
 ### Set custom theme based on hostname or domain
 # zstyle ':dotzsh:module:theme:hostname:your-host-here' theme 'dotphiles' 'soldark' 'magenta'
 # zstyle ':dotzsh:module:theme:hostname:your-other-host-here' theme 'dotphiles' 'soldark' 'violet'
